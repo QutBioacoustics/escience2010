@@ -1,0 +1,74 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 2:07:54 Apr 20, 2012 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:39:19 Nov 20, 2014.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+p, td, li, ul, div, span, body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+a:link, a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+	text-decoration: underline;
+}
+a:hover, a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+	background-color: #E5E5E5;
+	text-decoration: underline;
+}
+.whitetext, a.whitetext:link, a.whitetext:hover, a.whitetext:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #E5E5E5;
+}
+h1, .conferencename {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #333333;
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+}
+h3, .conferencedate {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+
+/* Top Menu Styles */
+
+a.branchmenu:link, a.branchmenu:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	text-decoration: none;
+	background-color: #E5E5E5;
+	display: block;
+	padding: 4px;
+}
+
+a.branchmenu:hover, a.branchmenu:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+	text-decoration: none;
+	background-color: #ffffff;
+	display: block;
+	padding: 4px;
+}
